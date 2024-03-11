@@ -128,18 +128,14 @@ public class ArraysAndLoops {
         System.out.println(" ");
 
         //or
-         for (int i=2; i<=100;i++) {
-             if (i%2 ==0) {
-                 System.out.print(i + " ");
-             }
+
+        for (int i=2; i<=100;i++) {
+            if (i%2 ==0) {
+                System.out.print(i + " ");
+            }
         }
 
-
-
-
-
-
-
     }
-    }
+}
+
 
